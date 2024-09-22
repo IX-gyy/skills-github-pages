@@ -1,5 +1,5 @@
 ---
 title: Welcome to my blog
-wow wow wow!
+author: IX-gyy
 ---
 
